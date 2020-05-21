@@ -13,3 +13,7 @@
   </view>
 </view>
 <button size="mini">按钮</button>
+
+<!-- 第三个版本 -->
+<text>第三次打tag</text>
+<text>tag03</text>
