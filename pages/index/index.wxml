@@ -13,3 +13,7 @@
   </view>
 </view>
 <button size="mini">按钮</button>
+
+<!-- 假如项目第一个版本开发完成打一个tag -->
+<text>第一个tag</text>
+<text>tag01</text>
