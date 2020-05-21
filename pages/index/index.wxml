@@ -13,3 +13,6 @@
   </view>
 </view>
 <button size="mini">按钮</button>
+
+<text>第二个tag</text>
+<text>tag02</text>
